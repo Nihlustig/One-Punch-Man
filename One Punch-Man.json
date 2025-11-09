@@ -4,5 +4,16 @@
   "artist": "Murata, Yusuke",
   "author": "ONE",
   "cover": "https://hot.planeptune.us/manga/Onepunch-Man/0001-001.png",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "Punch 1",
+      "volume": "01",
+      "last_updated": "1762722425",
+      "groups": {
+        "": [
+          "https://imgur.com/a/BJIlkDk"
+        ]
+      }
+    }
+  }
 }
